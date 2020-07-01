@@ -13,7 +13,7 @@ As multi-channel speaker arrays become more common within academic and research-
 
 ## Installing / Getting started
 
-To spin up project, you will need to first clone or fork the repo,
+To spin up project, you will need to first clone or fork the repo, then navigate into repo via command line
 
 Run `npm install` to install dependencies and then `npm start` to start node.js server
 
